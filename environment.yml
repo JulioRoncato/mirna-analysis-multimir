@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - r-base=4.2
+  - bioconductor-multimir
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - igraph
+  - ggraph
+  - tidyverse
+  - dplyr
+  - ggplot2
+  - complexheatmap
